@@ -2,13 +2,13 @@
 ### Author: Peter Swanson
 
 ## Background
-When I first got my HTC VIVE virtual reality headset, I wanted to learn how the basics of developing VR games. 
+When I first got my HTC VIVE virtual reality headset, I wanted to learn the basics of developing VR games. 
 
 <b>This is a virtual reality shooting range I built using the Unity game engine.</b>
 
 ## Functionality
 ### Running the game:
-Run <i>VR Shooting Range.exe</i> with SteamVR running and an HTC VIVE headset connected.
+Run <i>VR Shooting Range.exe</i> with SteamVR running and your HTC VIVE headset connected.
 
 ## Files
  - Scripts/ - Contains the scripts I wrote for this project
